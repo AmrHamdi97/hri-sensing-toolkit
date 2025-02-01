@@ -1,0 +1,25 @@
+irlab5][main] ~/python_stereo_camera_calibrate$ python3 calib.py calibration_settings.yaml
+Using for calibration settings:  calibration_settings.yaml
+Starting in 5 seconds...
+Starting in 5 seconds...
+rmse: 0.1739417627757663
+camera matrix:
+ [[857.49249485   0.         610.88806328]
+ [  0.         854.81355036 353.4872563 ]
+ [  0.           0.           1.        ]]
+distortion coeffs: [[ 1.86938454e-01 -1.38800288e+01 -6.05826142e-03 -8.08014094e-03
+   1.71926657e+02]]
+ rmse: 0.14771054434205902
+camera matrix:
+ [[826.03076772   0.         672.20339016]
+ [  0.         825.87783875 334.89926104]
+ [  0.           0.           1.        ]]
+distortion coeffs: [[-2.53874256e-01  7.23780470e+00 -1.41817481e-02  1.30122701e-02
+  -6.31811141e+01]]
+ rmse:  0.25494478994588105
+
+
+
+
+Camera 0 : Right Camera 
+Camera 1: Left Camera if facing the robot 
