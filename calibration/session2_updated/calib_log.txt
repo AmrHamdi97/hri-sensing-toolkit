@@ -1,0 +1,27 @@
+[airlab5][main] ~/python_stereo_camera_calibrate$ python3 calib.py calibration_settings.yaml
+Using for calibration settings:  calibration_settings.yaml
+Starting in 5 seconds...
+Starting in 5 seconds...
+rmse: 0.14349546360907908
+camera matrix:
+ [[836.35431573   0.         666.17731622]
+ [  0.         836.68958472 330.76315846]
+ [  0.           0.           1.        ]]
+distortion coeffs: [[-3.58740906e-01  1.24408836e+01 -1.58034817e-02  1.09276779e-02
+  -1.40416560e+02]]
+rmse: 0.1509822239458583
+camera matrix:
+ [[855.61727488   0.         648.76934793]
+ [  0.         857.4750674  313.20799228]
+ [  0.           0.           1.        ]]
+distortion coeffs: [[ 2.38643314e-01 -7.60145003e+00 -1.89459371e-02 -1.99500990e-03
+   6.02710879e+01]]
+rmse:  0.26133475673408546
+
+
+
+
+
+
+Camera 0 : Left Camera when looking at the screen 
+Camera 1 : Right Camera 
