@@ -1,0 +1,7 @@
+*.bag
+*.mp4
+*.avi
+recording/bags/*
+!recording/bags/.gitkeep
+__pycache__/
+*.pyc
